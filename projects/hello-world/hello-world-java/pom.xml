@@ -24,9 +24,9 @@
 		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 	</properties>
 
-	<dependencies>
-
-		<dependency>
+#	<dependencies>
+#
+#		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
